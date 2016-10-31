@@ -1,0 +1,14 @@
+.idea/
+node_modules/
+dist/
+*.iml
+webpack-assets.json
+webpack-stats.json
+npm-debug.log
+*~
+_*
+tmp*
+*#*
+*tmp
+doc/*
+static/upload
